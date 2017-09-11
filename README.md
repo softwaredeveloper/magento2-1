@@ -7,10 +7,10 @@ Good luck!
 ###Should you require assistance with 
 * Magento 2 Hosting
 * Magento 2 Installation
+* # [Freelance Magento Developer](https://www.phpfreelanceprogrammer.com/magento-programmer.html)
 * Magento 2 Migration
 * Magento 2 Module Development
 * Magento 2 Maintenance Support
 
 ###Please contact us!
 
-Schogini Systems P Ltd http://schogini.biz/magento
